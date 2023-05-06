@@ -1,5 +1,5 @@
-!pip install PyDrive
-!pip install transformers
+pip install PyDrive
+pip install transformers
 
 
 from pydrive.auth import GoogleAuth
